@@ -12,6 +12,7 @@ Fitur:
 Catatan:
 
 File index1.php → latihan dari kelas.
+
 File index2.php → hasil akhir kalkulator yang bisa dicoba.
 
 Silahkan buka index2.php untuk melihat hasil kalkulator berjalan.
